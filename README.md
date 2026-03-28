@@ -78,7 +78,6 @@ BookStore/
 * Payment gateway integration (Razorpay / Stripe)
 * Advanced search & filtering
 * Pagination for large data
-* Role-based access control (Admin/User)
 * Improved UI/UX design
 
 
